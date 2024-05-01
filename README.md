@@ -2,10 +2,15 @@
 
 This is a Next.js project that utilizes the following libraries:
 
-- [React Testing Library](https://github.com/testing-library/react-testing-library): A testing utility for React that helps you write tests that simulate user interactions.
-- [Jest](https://jestjs.io/): A delightful JavaScript testing framework with a focus on simplicity.
-- [Shadcn](https://github.com/shadcn/shadcn): A component library for building stylish and responsive user interfaces.
-- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for creating custom designs without having to leave your HTML.
+- Next.js: Next.js is a React framework that enables functionality such as server-side rendering, static site generation, and routing.
+- React Testing Library: React Testing Library provides utilities for testing React components in a way that simulates user interactions.
+- Jest: Jest is a JavaScript testing framework that is widely used for unit and integration testing.
+- Tailwind CSS: Tailwind CSS is a utility-first CSS framework that allows you to build custom designs without having to write custom CSS.
+- React Hook Form: React Hook Form is a library for building forms in React with easy-to-use hooks.
+- Zod: Zod is a TypeScript-first schema declaration and validation library with a focus on developer experience.
+- React Query: React Query is a library for fetching, caching, synchronizing, and updating server state in React applications.
+- Valtio: Valtio is a tiny and fast state management library that leverages proxies and ES6 Maps for reactivity.
+- Shadcn: Shadcn is the component library used in this project.
 
 ## Getting Started
 
@@ -19,3 +24,4 @@ This project uses Jest and React Testing Library for testing. You can run the te
 
 ```bash
 pnpm test
+```
